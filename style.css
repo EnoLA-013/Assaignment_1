@@ -1,0 +1,159 @@
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+body{
+    width: 1000px;
+    margin: 0 auto;
+    height: 0 auto;
+    margin-top: 15px;
+    border: 0.8px solid lightgray;
+
+}
+
+
+/* Nab Styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 100px;
+
+}
+nav h5{
+    font-size: 22px;
+    font-weight: 800;
+}
+.btn{
+    background-color: white;
+    font-weight: 600;
+    font-size: 14px;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border: 0.8px solid black;
+
+}
+/* banner style start */
+.banner{
+    background-image: url('img/Hero-bg.png');
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.banner_img img{
+    width: 130px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+.banner h1{
+    font-weight: 800;
+    font-size: 30px;
+    padding: 8px;
+}
+.banner p{
+    font-size: 11px;
+    font-weight: 300;
+    padding: 5px;
+}
+.btn_2{
+    margin-bottom: 20px;
+    background-color: rgb(7, 6, 6);
+    color: white;
+    font-size: 12px;
+    font-weight: 90;
+    padding: 12px 22px;
+    border-radius: 5px;
+
+}
+
+/* banner style end */
+ /* content style start here */
+
+ .content{
+    width: 810px;
+    border-top: 45px;
+    border-right: 70px;
+    box-shadow: 0.5;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 35px;
+    background-color:rgb(252, 251, 251);
+    /* background-color: rgb(250, 248, 248); */
+    border-radius: 6px;
+    padding: 10px;
+ }
+ .text{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 28px;
+ }
+.text h3{
+    font-size: 25px;
+    font-weight: 900;
+}
+ .text p{
+    font-size: 13px;
+    font-weight: 300;
+ }
+
+ .box{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    
+    
+ }
+ .box_left{
+    padding: 20px;
+    background-color: white;
+    margin-left: 15px;
+    border-radius: 15px;
+ }
+ .box_left h4{
+    font-size: 16px;
+    font-weight: 500;
+ }
+ .box_left p{
+    font-size: 12px;
+    font-weight: 300;
+ }
+ .btn_3{
+    background-color: white;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+    padding: 9px 12px;
+    border: 1px solid black;
+    margin-top: 8px;
+ }
+ .box_right{
+    background-color:  rgb(252, 251, 251);
+    margin-right: 35px;
+    
+ }
+ .box_right img{
+    width: 175px;
+    height: 170px;
+    margin-top: 15px;
+    margin-right: 25px;
+ }
+
+ /* .box_left_2{
+    
+    background-color: white;
+    margin-left: 15px;
+    padding-left: -18px;
+ }
+
+ .box_right_2{
+    padding: 20px;
+    background-color:  rgb(252, 251, 251);
+    margin-right: 35px;
+ } */
+ /* content style end here */
+
