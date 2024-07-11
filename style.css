@@ -321,13 +321,72 @@ nav h5{
  /* target style end */
 
  /* support style */
+
+
  .support{
-   
    margin-top: 35px;
    margin-left: 85px;
    margin-right: 60px;
-   border: 3px solid black;
-   padding: 30px;
-   border-radius: 10px;
+ }
+
+ .support img{
+   width: 849px;
+   height: 210px;
+   position: relative;
+   border-radius: 8px;
+
+ }
+ .need{
+   position: absolute;
+   margin-top: -200px;
+   margin-left: 230px;
+   text-align: center;
+ }
+ .need h3{
+   color: white;
+   font-weight: 800;
+
+ }
+ .need p{
+   color: white;
+   font-size: 10px;
+   font-weight: 400;
+ }
+ .need input{
+   padding: 5px;
+   border-radius: 8px;
+ }
+
+ /* footer style */
+ ul li{
+   list-style: none;
+   margin-right: 25px;
+ }
+ .social ul{
+   display: flex;
+ }
+ .social{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 40px;
+   margin-top: -15px;
+   width: 840px;
+   height: 30px;
+   padding: 12px;
+ }
+
+ 
+ .social ul li img{
+   height: 20px;
+   width: 20px;
+   
+ }
+ .footer{
+   margin-top: 25px;
+   margin-left: 45px;
+   margin-right: 40px;
+   margin-bottom: 50px;
+   background-color: rgb(242, 245, 248);
+   border: 0.5px solid rgb(245, 241, 241);
  }
 
