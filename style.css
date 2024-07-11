@@ -157,3 +157,19 @@ nav h5{
  } */
  /* content style end here */
 
+ /* inspiration style start here */
+
+.video{
+   align-items: center;
+   justify-content: center;
+   border: 1px solid lightgray;
+   margin-top: 45px;
+   margin-left: 60px;
+   margin-right: 60px;
+   margin-bottom: 45px;
+   border-radius: 10px;
+   padding: 20px;
+}
+
+ /* inspiration style end here */
+
